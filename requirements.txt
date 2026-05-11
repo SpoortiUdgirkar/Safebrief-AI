@@ -12,3 +12,4 @@ Pillow
 reportlab
 joblib
 PyPDF2
+openai
